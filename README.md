@@ -6,4 +6,10 @@
 
 -  Make pretty ✅
 - Add multipage support
+    - Calendar of events
+    - Sign-up
+    - Basic gear needed for a trip
+    - How to clean gear
 - Add RSS for [Substack](https://substack.com/@qubcaving)
+- People do this for fun?!
+    - Moeny for an action camera to start a YouTube channel? Publicity
