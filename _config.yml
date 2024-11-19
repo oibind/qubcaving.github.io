@@ -1,0 +1,65 @@
+url: https://qub.cavi.ng
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: QUB Caving Club
+email: caving@qub.ac.uk
+description: "The island of Ireland is strewn with caves. From the 97m rope descent into Noon's Hole in Fermanagh to the 16km of passage in Pollnagollum, Co. Clare, the island is packed with beautiful and exciting underground passages.
+
+The rich underground never fails to provoke awe in those who dare to visit it - if you will let us, we intend to illuminate the wonders beneath your doorstep!"
+
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/qubcaving/
+    - title: instagram
+      url: https://www.instagram.com/qubcaving2/
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
