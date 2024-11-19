@@ -19,3 +19,4 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: [README.md, Gemfile, Gemfile.lock]
