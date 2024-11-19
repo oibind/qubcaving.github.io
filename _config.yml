@@ -14,10 +14,6 @@ social:
     url: https://www.facebook.com/qubcaving/
   - title: instagram
     url: https://www.instagram.com/qubcaving2/
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
