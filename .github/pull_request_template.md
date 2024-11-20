@@ -2,7 +2,7 @@
 
 ## Description
 
-_Example: Add missing period on equipment donations page.
+Example: Add missing period.
 
 Before | After
 --- | ---
